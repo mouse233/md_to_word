@@ -4,8 +4,6 @@
 
 一个简单易用的 Windows 工具，将 Markdown 文件转换为格式美观的 Word（.docx）文档。
 
-![演示](docs/demo.png)
-
 ## ✨ 功能特点
 
 - 🚀 **开箱即用** - 内置 Pandoc，无需额外安装依赖
@@ -32,7 +30,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/mouse233/md_to_word.git
+git clone https://github.com/Sagecola/md_to_word.git
 cd md_to_word
 
 # 运行（需要安装 Python 3.x 和 Pandoc）
